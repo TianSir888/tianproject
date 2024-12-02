@@ -14,3 +14,5 @@ add from login -222
 666-本地库
 666-remote
 
+777-other
+
